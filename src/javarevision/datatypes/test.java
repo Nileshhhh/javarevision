@@ -15,7 +15,7 @@ public class test {
             max = a[0];
             secondLargest = a[1];
         } else {
-            max = a[1]; // Fixed bug
+            max = a[1];
             secondLargest = a[0];
         }
 
