@@ -1,6 +1,6 @@
 package javarevision.Phase1Test;
 
-public class ReverseStringTes {
+public class ReverseStringTest {
 
     public static void main(String[] args) {
         String name ="Backend";
@@ -10,7 +10,7 @@ public class ReverseStringTes {
         {
             reverse[count] = name.charAt(i);
             count++;
-            
+
         }
         System.out.println(reverse);
 
